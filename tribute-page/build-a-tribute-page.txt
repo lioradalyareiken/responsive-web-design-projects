@@ -1,0 +1,109 @@
+** start of index.html **
+
+<!DOCTYPE html> 
+<html lang="en"> 
+  <head> 
+    <meta charset="utf-8"> 
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title id="title">Lance Reddick Tribute Page</title> 
+    <link rel="stylesheet" href="styles.css"> 
+    </head> 
+    <body>
+      <main id="main"> 
+        <h1 id="title">Lance Reddick Tribute Page</h1> 
+        <p class="subtitle">1962 – 2023 • Actor, Musician, Role Model</p> 
+          <div id="img-div"> 
+            <img id="image" src="data:image/jpeg;base64,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" alt="Lance Reddick"> 
+            <div id="img-caption">This is Lance Reddick.</div> 
+            </div> 
+            <div id="tribute-info">
+              <h2>About Lance Reddick</h2> 
+              <p> Lance Reddick was an American actor and musician best known for his powerful performances in <em>The Wire</em>, <em>Fringe</em>, and the <em>John Wick</em> films. Known for his deep voice, calm intensity, and dignified roles, he became a symbol of professionalism, resilience, and humility. Beyond acting, he was also a classically trained musician, reflecting his creative depth and discipline. </p> 
+              <h3>Values He Showcases</h3> 
+              <ul> 
+                <li><strong>Discipline & Professionalism</strong> - He brought passion and integrity to every role.</li> 
+                <li><strong>Humility</strong> - Admired for his kindness and respect toward colleagues and fans. </li> 
+                <li><strong>Resilience</strong> - His career reflected determination and perserverance.</li> 
+                <li><strong>Artistry</strong> - His talent extended from acting to music.</li> 
+                <li><strong>Inspiration</strong> - A role model for young actors and creatives everywhere.</li> 
+                </ul> 
+                </div> 
+                <p>Learn more about his life and career on his <a id="tribute-link" href="https://en.wikipedia.org/wiki/Lance_Reddick" target="_blank">Wikipedia page</a></p>
+              </main> 
+              </body> 
+              </html> 
+
+** end of index.html **
+
+** start of styles.css **
+
+body { 
+  font-family: Arial, sans-serif; 
+  margin: 0; 
+  padding: 0; 
+  background: #f4f4f9; 
+  color: #333; 
+  line-height: 1.6; 
+  text-align: center; 
+}
+
+#title { 
+  margin-top: 1rem; 
+  font-size: 2.5rem; 
+}
+
+.subtitle { 
+  font-style: italic; 
+  color: #555; 
+  margin-bottom: 2rem; 
+}
+
+#img-div { 
+  margin: 0 auto; 
+  padding: 1rem; 
+  max-width: 600px; 
+}
+
+#image { 
+  max-width: 100%; 
+  height: auto; 
+  display: block; 
+  margin: 0 auto; 
+  border-radius: 10px; 
+  box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+#img-caption { 
+  margin-top: 0.5rem; 
+  font-size: 0.9rem; 
+  color: #555; 
+}
+
+#tribute-info { 
+  max-width: 800px; 
+  margin: 2rem auto; 
+  text-align: left; 
+}
+
+#tribute-info h2, #tribute-info h3 { 
+  color: #444; 
+  border-bottom: 2px solid #ddd; 
+  padding-bottom: 0.3rem; 
+}
+
+#tribute-info ul { 
+  list-style-type: disc; 
+  padding-left: 1.5rem; 
+}
+
+a { 
+  color: #1a73e8; 
+  text-decoration: none;
+}
+
+a:hover { 
+  text-decoration: underline; 
+}
+
+** end of styles.css **
+
