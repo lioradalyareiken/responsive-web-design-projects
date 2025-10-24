@@ -1,22 +1,22 @@
-# Teaching Kids to Code: Step-by-Step Guide
+# Technical Documentation
 
-This project is part of the freeCodeCamp Responsive Web Design Certification.  
-It’s a technical documentation page designed for teachers and students learning to code for the first time.
+A documentation site teaching kids the basics of coding through interactive examples and clear, accessible explanations.
 
-## 🎯 Purpose
-The page provides a beginner-friendly overview of core programming concepts — explained simply and with fun examples for kids.
+## Live Demo
 
-## 💡 Topics Covered
-- What is coding?
-- Getting started with HTML, CSS, and JavaScript
-- Using variables to store information
-- Creating loops to repeat actions
-- Writing and calling functions
-- Fun project ideas to practice your skills
+[View Live](https://lioradalyareiken.github.io/responsive-web-design-projects/technical-documentation/)
 
-## 🌐 Live Demo
-(Link coming soon once hosted with GitHub Pages)
+## Features
 
-## 🛠 Tech Used
+- Sidebar navigation
+- Responsive design for mobile and desktop
+- Organized sections for easy learning
+
+## Built With
+
 - HTML5
 - CSS3
+
+## GitHub Repository
+
+[View Code](https://github.com/lioradalyareiken/responsive-web-design-projects/tree/main/technical-documentation)
