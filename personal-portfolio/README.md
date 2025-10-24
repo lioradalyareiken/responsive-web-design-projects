@@ -1,20 +1,24 @@
-# Personal Portfolio Project
+# Personal Portfolio
 
-This is my **Personal Portfolio Webpage**, created as the final project in the freeCodeCamp Responsive Web Design certification.
+My personal portfolio showcasing my skills, projects, and contact information. Built for aspiring EdTech roles and educators.
 
-## 🎯 Purpose
-Showcase my journey as an educator and aspiring EdTech engineer. I use my background in mathematics, pedagogy, and coding to design tools that support learners and teachers.
+## Live Demo
 
-## 🧩 Features
-- Responsive design that adapts to all screen sizes  
-- Project gallery 
-- Contact icons for GitHub, LinkedIn, and email  
-- Professional, education-inspired theme  
+[View Live](https://lioradalyareiken.github.io/responsive-web-design-projects/personal-portfolio/)
 
-## 🛠️ Tech Used
-- HTML5  
-- CSS3  
-- Font Awesome Icons  
+## Features
 
-## 🌍 Live Demo
-[View on GitHub Pages](https://lioradalyareiken.github.io/responsive-web-design-projects/personal-portfolio/)
+- Fully responsive layout
+- Navigation bar with smooth scrolling
+- Contact section with email, GitHub, LinkedIn, and phone icons
+- Projects section with links to all FreeCodeCamp projects
+
+## Built With
+
+- HTML5
+- CSS3
+- Font Awesome for icons
+
+## GitHub Repository
+
+[View Code](https://github.com/lioradalyareiken/responsive-web-design-projects/tree/main/personal-portfolio)
