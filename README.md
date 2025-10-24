@@ -1,31 +1,48 @@
 # Responsive Web Design Projects
 
-This repository contains my projects from the freeCodeCamp Responsive Web Design Certification.
+This repository contains my FreeCodeCamp Responsive Web Design Certification projects. All projects are fully responsive and showcase HTML, CSS, and basic JavaScript skills.
 
 ## Projects
 
-1. **Survey Form**
-   - **Description:** A responsive survey form built with HTML and CSS, demonstrating form inputs, labels, and accessibility practices.
-   - **Purpose:** Helps students select one sport elective, one science elective, one art elective, and as many clubs as they want at the school I work at.
-   - **Live Demo:** [View on GitHub Pages](https://lioradalyareiken.github.io/responsive-web-design-projects/survey-form/)
-   - **Code:** [Survey Form Folder](https://github.com/lioradalyareiken/responsive-web-design-projects/tree/main/survey-form)
+### 1. [Survey Form](https://lioradalyareiken.github.io/responsive-web-design-projects/survey-form/)
+A responsive form that helps students select one sport elective, one science elective, one art elective, and any clubs they’d like to join.  
 
-2. **Tribute Page**
-   - **Description:** Tribute page for Lance Reddick, created with a group of students who chose him as their hero. Highlights his leadership qualities and the values students admire.
-   - **Live Demo:** [View on GitHub Pages](https://lioradalyareiken.github.io/responsive-web-design-projects/tribute-page/)
-   - **Code:** [Tribute Page Folder](https://github.com/lioradalyareiken/responsive-web-design-projects/tree/main/tribute-page)
+**GitHub Repo:** [survey-form](https://github.com/lioradalyareiken/responsive-web-design-projects/tree/main/survey-form)
 
-3. **Technical Documentation Page**
-   - **Description:** Documentation page explaining a coding or teaching concept with interactive examples and clear explanations.
-   - **Live Demo:** [View on GitHub Pages](https://lioradalyareiken.github.io/responsive-web-design-projects/technical-documentation/)
-   - **Code:** [Technical Documentation Folder](https://github.com/lioradalyareiken/responsive-web-design-projects/tree/main/technical-documentation)
+---
 
-4. **Product Landing Page – MathMinds**
-   - **Description:** Landing page for a fictional math platform demonstrating responsive design, navigation, signup form, pricing section, and demo video.
-   - **Live Demo:** [View on GitHub Pages](https://lioradalyareiken.github.io/responsive-web-design-projects/product-landing-page/)
-   - **Code:** [MathMinds Folder](https://github.com/lioradalyareiken/responsive-web-design-projects/tree/main/product-landing-page)
+### 2. [Tribute Page](https://lioradalyareiken.github.io/responsive-web-design-projects/tribute-page/)
+A tribute page dedicated to actor Lance Reddick, celebrating his values of leadership, discipline, and mentorship — chosen as an inspiration by my students.  
 
-5. **Personal Portfolio**
-   - **Description:** My personal portfolio showcasing all FreeCodeCamp Responsive Web Design projects. Includes a “Get in Touch” section with email, GitHub, LinkedIn, and phone icons.
-   - **Live Demo:** [View on GitHub Pages](https://lioradalyareiken.github.io/responsive-web-design-projects/personal-portfolio/)
-   - **Code:** [Personal Portfolio Folder](https://github.com/lioradalyareiken/responsive-web-design-projects/tree/main/personal-portfolio)
+**GitHub Repo:** [tribute-page](https://github.com/lioradalyareiken/responsive-web-design-projects/tree/main/tribute-page)
+
+---
+
+### 3. [Technical Documentation](https://lioradalyareiken.github.io/responsive-web-design-projects/technical-documentation/)
+A documentation site teaching kids the basics of coding through interactive examples and clear, accessible explanations.  
+
+**GitHub Repo:** [technical-documentation](https://github.com/lioradalyareiken/responsive-web-design-projects/tree/main/technical-documentation)
+
+---
+
+### 4. [Product Landing Page](https://lioradalyareiken.github.io/responsive-web-design-projects/product-landing-page/)
+Landing page for “MathMind” — an adaptive learning app concept designed to make math learning engaging and inclusive for all students.  
+
+**GitHub Repo:** [product-landing-page](https://github.com/lioradalyareiken/responsive-web-design-projects/tree/main/product-landing-page)
+
+---
+
+### 5. [Personal Portfolio](https://lioradalyareiken.github.io/responsive-web-design-projects/personal-portfolio/)
+My personal portfolio showcasing my skills, projects, and contact information. Built for aspiring EdTech roles and educators.  
+
+**GitHub Repo:** [personal-portfolio](https://github.com/lioradalyareiken/responsive-web-design-projects/tree/main/personal-portfolio)
+
+---
+
+## Contact
+
+If you’d like to get in touch:
+
+- Email: [liorareiken@gmail.com](mailto:liorareiken@gmail.com)  
+- GitHub: [lioradalyareiken](https://github.com/lioradalyareiken)  
+- LinkedIn: [Liora Reiken](https://www.linkedin.com/in/liora-reiken/)
