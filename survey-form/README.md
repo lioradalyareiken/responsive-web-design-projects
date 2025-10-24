@@ -1,25 +1,22 @@
-# Survey Form Project
+# Survey Form
 
-This is the Survey Form project completed as part of the freeCodeCamp Responsive Web Design certification, customized for use at the school where I work.  
+A responsive form that helps students select one sport elective, one science elective, one art elective, and any clubs they’d like to join.
 
-## 🎯 Purpose
-The form is designed to guide students in selecting their electives and clubs for the school year:
-- One **sport elective**  
-- One **science elective**  
-- One **art elective**  
-- Unlimited **clubs**  
+## Live Demo
 
-This format matches the actual student selection process at the school, giving learners an accessible and organized way to make their choices.
+[View Live](https://lioradalyareiken.github.io/responsive-web-design-projects/survey-form/)
 
-## 🌐 Live Demo
-(View on GitHub Pages — link coming soon)
+## Features
 
-## ✨ Features
-- Responsive layout that adapts to mobile, tablet, and desktop screens.
-- Accessible HTML structure (semantic elements, labels for form controls).
-- Custom CSS styling with a clean and modern look.
-- Form fields include text, email, dropdowns, checkboxes, radio buttons, and a textarea.
+- Fully responsive design
+- Customizable form inputs
+- Clear validation for user input
 
-## 🛠 Tech Used
-- HTML5  
+## Built With
+
+- HTML5
 - CSS3
+
+## GitHub Repository
+
+[View Code](https://github.com/lioradalyareiken/responsive-web-design-projects/tree/main/survey-form)
